@@ -16,3 +16,38 @@ HTML elements are represented by tags <opening> and </closing>
 
 HTML tags can be used to label pieces of content on a website 
 such as heading paragraph etc
+
+-> An element is part of the website
+-> An element may contain a data item,
+text or an image also be empty
+
+An HTML element usually consists of an opening and closing tag. 
+
+[Basic HTML Document Structure]
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta chartset="utf-8">
+        <title>My simple Page</title>
+    </head>
+
+    <body>
+        <h1> Hello World! </h1>
+        <p> Below is an inspirational picture</p>
+        <img src="images/" alt=""image>
+    </body>
+</html>
+
+[Basic Structure of a table]
+<table>
+            <tr>
+                <th> Name </th>
+                <th> Age </th>
+                <th> City </th>
+            </tr>
+            <tr>
+                <td> Alice </td>
+                <td> 30 </td>
+                <td> New York </td>
+            </tr>
+</table>
