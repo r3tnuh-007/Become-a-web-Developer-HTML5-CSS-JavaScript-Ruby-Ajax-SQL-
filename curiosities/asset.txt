@@ -1,0 +1,14 @@
+Assets are the various
+components you will use
+in building your website
+
+[Text]
+
+[Theme colour]
+https://www.webpagefx.com/web-design/color-picker/
+
+[Images]
+https://unsplash.com
+
+[Fonts]
+https://fonts.google.com

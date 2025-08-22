@@ -1,0 +1,12 @@
+
+We need a single folder to
+store our Assets
+-> Single folder
+-> Sub folders
+-> Files (Index.html)
+
+The index.html file contains the
+main content of the website and conects
+to the subfolders
+It is stored in the main project folder
+

@@ -1,0 +1,17 @@
+HTTP is: Hypertext Transfer Protocol
+HTML: Hypertext Mark-Up Language, witch also 
+contains links
+
+Protocol refers to a specific set of
+communication rules
+        TCP/IP
+        HTTP
+        FTP
+
+HTTP allows the fetching of
+resources such over the web
+HTTP is a request-responde client-server Protocol
+ 
+ HTTP is the fundation of any data exchange on the web
+
+HTTP is a stateless Protocol

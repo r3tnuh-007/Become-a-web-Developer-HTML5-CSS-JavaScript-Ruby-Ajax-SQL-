@@ -1,0 +1,18 @@
+API: Application Programming Interface
+
+API -> Allows two applications to
+talk to each other, is an intermediet
+software between applications
+
+[Social APIs]
+Facebook
+Twiter
+Google talk
+Foursquare
+SoundCloud
+
+[Vsual APIs]
+Google Maps
+YouTube
+AccuWeather
+Pinterest
