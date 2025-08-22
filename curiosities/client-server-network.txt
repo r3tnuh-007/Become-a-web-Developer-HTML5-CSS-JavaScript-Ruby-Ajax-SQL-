@@ -1,0 +1,4 @@
+[Network]
+When a client is searching for pages on the
+internet, they actually are making a request 
+to the server who are remotly locaded.
