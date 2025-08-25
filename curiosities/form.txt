@@ -1,0 +1,6 @@
+-> To create a form u need to indicate that
+with a form tag
+
+-> A form contains different types of elements
+like check boxes, radio button,
+submit buttons, text area, etc...
