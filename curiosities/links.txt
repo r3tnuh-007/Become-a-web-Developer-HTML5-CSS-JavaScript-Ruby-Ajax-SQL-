@@ -1,0 +1,7 @@
+-> Links are found in nearly all web pages
+-> Links allow users to click from page
+and access resources on the web
+-> Links can be text, images or any HTML element
+-> An anchor element <a> and href attribute is used
+to add a Links
+-> href attributes specifies the destination address
